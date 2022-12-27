@@ -3,7 +3,7 @@
 # Created on 24.12.2022
 
 # Türkiye AOF grade points:
-# 84,00-100 – AA (passed)
+# 84,00-100   – AA (passed)
 # 77,00-83,99 – AB (passed)
 # 71,00-76,99 – BA (passed)
 # 66,00-70,99 – BB (passed)
@@ -13,8 +13,9 @@
 # 46,00-49,99 – CD (GPA: Pass if above 2.00)
 # 40,00-45,99 – DC (GPA: Pass if above 2.00)
 # 33,00-39,99 – DD (GPA: Pass if above 2.00)
-# 0-32,99 – FF (failed to pass)
+# 0-32,99     – FF (failed to pass)
 # midterm 0.30, final 0.70 taken basis.
+
 import math
 from math import ceil
 
