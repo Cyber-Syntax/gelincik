@@ -1,2 +1,1 @@
-# gelincik
-It's finding final grade when user insert the midterm grade.
+Learning python with my basic projects.
