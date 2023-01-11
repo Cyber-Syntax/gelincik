@@ -8,7 +8,7 @@ current_day = datetime.datetime.today().weekday()
 
 # Set the directory path for wallpapers
 directory_primary = "/home/cyber-syntax/Pictures/justnow/"
-directory_sunday = "/home/cyber-syntaxPictures/Sunday/"
+directory_sunday = "/home/cyber-syntax/Pictures/Sunday/"
 
 # Is it working day or holiday 
 if current_day == 6:              
