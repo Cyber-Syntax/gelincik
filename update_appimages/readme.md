@@ -6,9 +6,11 @@
   - You are free to pull requests for development, but I would like to point out that I do not have the knowledge to make a very advanced application yet.
     - [ ] Achieve that.
 # About Super Productivity
-- [ ] add soon
+- [ ] Write a script for Super Productivity as well until you do global script for every appimages.
 
-# Update Appimage TODOS
+# Siyuan Script TODOS
 - [X] Clear code
-- [ ] Write a script for Super Productivity as well until you do the following
+- [ ] Write version txt file
+- [ ] Check update when script started
+- [ ] Update comment's when you achieve new knowledge.
 - [ ] Make it usable for other appimages as well.
